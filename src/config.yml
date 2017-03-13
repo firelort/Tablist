@@ -1,0 +1,19 @@
+# Prefix darf maximal 16 Zeichen lang sein!
+Config:
+  prefix1: '&1' 
+  prefix2: '&2'
+  prefix3: '&3'
+  prefix4: '&4'
+  prefix5: '&5'
+  prefix6: '&6'
+  prefix7: '&7'
+  prefix8: '&8'
+  prefix9: '&a'
+  prefix10: '&b'
+  prefix11: '&c'
+  prefix12: '&d'
+  prefix13: '&e'
+  prefix14: '&f'
+  prefix15: '&g'
+  prefix15: '&r'
+#Do-not-change: 2.1 
