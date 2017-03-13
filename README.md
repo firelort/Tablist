@@ -1,9 +1,9 @@
 # Tablist
-Prefix Tablist Plugin für Minecraft Spigot/Bukkit Server.
-Einfach die verschiedenen 16 Prefix per Permission setzen.
-Permissions
-"tablist.rank1" bis "tablist.rank15" 
-16. Prefix ohne Permission.
-In der Configfile können alle Prefix verändert werden.
-Farbe können mit "&" genutzt werden.
-Prefixe dürfen maximal 16 Zeichen lang sein.
+<b>Prefix Tablist Plugin für Minecraft Spigot/Bukkit Server.</b><br >
+Einfach die verschiedenen 16 Prefix per Permission setzen.<br >
+Permissions:<br >
+"tablist.rank1" bis "tablist.rank15" <br >
+16. Prefix ohne Permission.<br ><br >
+In der Configfile können alle Prefix verändert werden.<br >
+Farbe können mit <b>"&"</b> genutzt werden.<br >
+Prefixe dürfen <b>maximal 16 Zeichen</b> lang sein.<br >
