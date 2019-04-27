@@ -1,0 +1,13 @@
+teams:
+  admin:
+    prefix: "&6Admin &f| "
+    priority: 0
+    permission: teams.admin
+  support:
+    prefix: "&6Support &f | "
+    priority: 1
+    permission: teams.support
+  vip:
+    prefix: "&1VIP &f| "
+    priority: 2
+    permission: teams.vip

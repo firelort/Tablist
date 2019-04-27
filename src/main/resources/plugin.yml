@@ -1,0 +1,5 @@
+name: Tablist
+version: "1.0"
+main: de.hartlab.tablist.Tablist
+author: hartlab
+api-version: "1.13"
